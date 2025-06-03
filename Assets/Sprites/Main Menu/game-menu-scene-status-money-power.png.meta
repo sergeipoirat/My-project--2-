@@ -1,0 +1,1506 @@
+fileFormatVersion: 2
+guid: 0116acf6aaa2fb1408bfe8aa6a56613d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1555
+        width: 777
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb89d8a860e6a14c928443404f0b53d
+      internalID: -880363855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1551
+        width: 787
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6a960a7b0d4347a41a4538a203ebd
+      internalID: -1602421664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1334
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7c5aa3bcc92c47be5b6f19a8d149d
+      internalID: -2064009558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1334
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27e33a2760958449073ffd7f8fa30e
+      internalID: -1902930017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1334
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e29eb02d752754eb88a846749ca05d
+      internalID: 1478789247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1334
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a56fad0ec95d498b3fbb397100967
+      internalID: -1060693464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1334
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd1ae06375960e41b1273b8e60eacb0
+      internalID: 1104813795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1239
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858aa9d721ea744583825c614e60b7b
+      internalID: -809356661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1239
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f1ffe5e9e09c246bea5c5c1c0a1a69
+      internalID: -1840041313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1239
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127e16e7b94a544ca93d7854e344745
+      internalID: -469795394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1239
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e3b26f4a2773c4e9cc70a677dba269
+      internalID: 1735299799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5298d8e190824fb270aaa307ca675
+      internalID: 1300179469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1144
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9644f72fba8d4c9ab49ffbc85d2b3
+      internalID: 251770852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1144
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d84c49ca532024e827fdfa56472cb0
+      internalID: 1710011224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1144
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c90fe680a22a4d8df4c6c058a3feb
+      internalID: 205300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1144
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f0278f731ad64d8c895f4a6d50f9b
+      internalID: -1732191697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa2aa0cc703e7b42bef474d16f2b47b
+      internalID: -1529992555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 954
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a09c3b4dbe55542b277d13c4b6bdad
+      internalID: 1787802496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 954
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1b70d5e536ae409f846df0f7b9443
+      internalID: -746656597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 954
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7319d808c2f5a2540acc732b1aed259f
+      internalID: 533980030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 954
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ed60872a3ae247a523bc7309ec6b9
+      internalID: -1203243011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 859
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9396d581a47fa47ad2d86d50f05941
+      internalID: -231105510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 859
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e9473200356f428eab3f212aa8f95
+      internalID: 1656229530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 859
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdc434ab08484d4bb6a7ab83e6747fa
+      internalID: 1672040515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 859
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a1fb413bae8014fb25b3ecdcba59bb
+      internalID: -442754922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 859
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d37b7571165548bc76a1a82338322
+      internalID: -1815817395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1e9b1884d13542881be5120efe297
+      internalID: 805600081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 764
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887d66aebe29f4438d2c63dc12bb47a
+      internalID: 1630677157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 764
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ed0bd7e7da4145b8e96a3d9f1f49f
+      internalID: 2092808068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 764
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bdc63bb1161454697addfbdbc25d2c
+      internalID: 665298523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 764
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b17fb71736b3048a5d50110b7180b9
+      internalID: -918655718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e12fc1c7b2094dab864d95bcde425
+      internalID: -2076825048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 669
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf3df34a92ac74bbeb3b57f1258c26
+      internalID: -1736540561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 669
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd2b0563cfcf846ade3ff41324269a
+      internalID: 79894649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596fe4f0b3b8ddb4fa7c840abaa060b4
+      internalID: -363847678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 574
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fcdb39852a7142939fdcd76d0ada7
+      internalID: 408222172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 574
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ea2f7520c562468bb21a876789075
+      internalID: 700532392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc37852de36e9a4aa405c38bbb11589
+      internalID: 123998415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 479
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8d538680ea3d49915930a86c9d94a
+      internalID: -1412304380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 479
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12947ff681bcdfe43a690fcc5c6b0c7a
+      internalID: -565177425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 479
+        width: 662
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25959498b771c1641b7bffb16b7ec302
+      internalID: -246526838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92974984776bae46b3908b5cf35be7c
+      internalID: 2073352021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 384
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2937a1eed369a142a7664b38ad57572
+      internalID: 747774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 384
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc94c3c85db4b54f909b266b310580b
+      internalID: 309491933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_63
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 384
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf350dddcf09674ca1f3f70b8962496
+      internalID: 278983097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b5103a61753d4bb60fbf341bac086
+      internalID: 1949531600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 289
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf575f1c241064c9792063a6a8fa32
+      internalID: -1534776576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_66
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 289
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9e35b952dae546a4273db3bc86da5
+      internalID: -701642150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 289
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b54126fa72de8847ab0f0cde502389f
+      internalID: -1964811956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_68
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 289
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f8c48c2d272df4d9a18182f4b99ef6
+      internalID: 1060359942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba747a3f2c6c9014aa82b9bd56814887
+      internalID: 92314402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 194
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58be6afe11cbe449812895e43f3dd1a
+      internalID: 2056834597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 194
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cb60a5aabf1a4daf8e782aa258927
+      internalID: 1014452945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 194
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d39feaf02d1894a802acb74f4e62fc
+      internalID: -877085166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_73
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 194
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e7965615b43ab4b85468ed5ab2ca37
+      internalID: 1181700590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643cc8f2914d4a429b82dd9498f4c79
+      internalID: 1345330208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_75
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 99
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1e3edd982aa2429be56e6c7ec09fc
+      internalID: -1006529660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 99
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50e677edd6ee244a88b9703765768b
+      internalID: -458309732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-menu-scene-status-money-power_77
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 99
+        width: 400
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac67ee4fb912d4aa25063e69a0a202
+      internalID: 2060947525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64812771bccb0b84198a1bb06434e01e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game-menu-scene-status-money-power_0: -627903470
+      game-menu-scene-status-money-power_1: 229568393
+      game-menu-scene-status-money-power_10: -880363855
+      game-menu-scene-status-money-power_11: -1648793003
+      game-menu-scene-status-money-power_12: -1602421664
+      game-menu-scene-status-money-power_13: -1747060776
+      game-menu-scene-status-money-power_14: 1527513302
+      game-menu-scene-status-money-power_15: -2064009558
+      game-menu-scene-status-money-power_16: -1902930017
+      game-menu-scene-status-money-power_17: 1478789247
+      game-menu-scene-status-money-power_18: -1060693464
+      game-menu-scene-status-money-power_19: 1104813795
+      game-menu-scene-status-money-power_2: -1247991741
+      game-menu-scene-status-money-power_20: 396579046
+      game-menu-scene-status-money-power_21: -809356661
+      game-menu-scene-status-money-power_22: -1840041313
+      game-menu-scene-status-money-power_23: -469795394
+      game-menu-scene-status-money-power_24: 1735299799
+      game-menu-scene-status-money-power_25: 1300179469
+      game-menu-scene-status-money-power_26: 251770852
+      game-menu-scene-status-money-power_27: 1710011224
+      game-menu-scene-status-money-power_28: 205300492
+      game-menu-scene-status-money-power_29: -1732191697
+      game-menu-scene-status-money-power_3: 1546219713
+      game-menu-scene-status-money-power_30: -1529992555
+      game-menu-scene-status-money-power_31: 1787802496
+      game-menu-scene-status-money-power_32: -746656597
+      game-menu-scene-status-money-power_33: 533980030
+      game-menu-scene-status-money-power_34: -1203243011
+      game-menu-scene-status-money-power_35: -231105510
+      game-menu-scene-status-money-power_36: 1656229530
+      game-menu-scene-status-money-power_37: 1672040515
+      game-menu-scene-status-money-power_38: -442754922
+      game-menu-scene-status-money-power_39: -1815817395
+      game-menu-scene-status-money-power_4: -1304087683
+      game-menu-scene-status-money-power_40: 805600081
+      game-menu-scene-status-money-power_41: 1630677157
+      game-menu-scene-status-money-power_42: 2092808068
+      game-menu-scene-status-money-power_43: 665298523
+      game-menu-scene-status-money-power_44: -918655718
+      game-menu-scene-status-money-power_45: -2076825048
+      game-menu-scene-status-money-power_46: -1736540561
+      game-menu-scene-status-money-power_47: 79894649
+      game-menu-scene-status-money-power_48: 1810988758
+      game-menu-scene-status-money-power_49: -1620338191
+      game-menu-scene-status-money-power_5: 706206287
+      game-menu-scene-status-money-power_50: -363847678
+      game-menu-scene-status-money-power_51: 408222172
+      game-menu-scene-status-money-power_52: 700532392
+      game-menu-scene-status-money-power_53: -1941125566
+      game-menu-scene-status-money-power_54: -213721786
+      game-menu-scene-status-money-power_55: 123998415
+      game-menu-scene-status-money-power_56: -1412304380
+      game-menu-scene-status-money-power_57: -565177425
+      game-menu-scene-status-money-power_58: -246526838
+      game-menu-scene-status-money-power_59: 1579979853
+      game-menu-scene-status-money-power_6: 2010073983
+      game-menu-scene-status-money-power_60: 2073352021
+      game-menu-scene-status-money-power_61: 747774314
+      game-menu-scene-status-money-power_62: 309491933
+      game-menu-scene-status-money-power_63: 278983097
+      game-menu-scene-status-money-power_64: 1949531600
+      game-menu-scene-status-money-power_65: -1534776576
+      game-menu-scene-status-money-power_66: -701642150
+      game-menu-scene-status-money-power_67: -1964811956
+      game-menu-scene-status-money-power_68: 1060359942
+      game-menu-scene-status-money-power_69: 92314402
+      game-menu-scene-status-money-power_7: -779975483
+      game-menu-scene-status-money-power_70: 2056834597
+      game-menu-scene-status-money-power_71: 1014452945
+      game-menu-scene-status-money-power_72: -877085166
+      game-menu-scene-status-money-power_73: 1181700590
+      game-menu-scene-status-money-power_74: 1345330208
+      game-menu-scene-status-money-power_75: -1006529660
+      game-menu-scene-status-money-power_76: -458309732
+      game-menu-scene-status-money-power_77: 2060947525
+      game-menu-scene-status-money-power_8: 1627148293
+      game-menu-scene-status-money-power_9: -1674959810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
