@@ -20,6 +20,7 @@ public class EnemyAI : MonoBehaviour
     private float _nextAttackTime = 0f;
 
     private NavMeshAgent navMeshAgent;
+    private BoxCollider2D boxCollider;
     private State _currentState;
     private float _roamingTime;
     private Vector3 _roamPosition;
